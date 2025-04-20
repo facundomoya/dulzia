@@ -19,3 +19,11 @@ body {
     margin-top: 50px;
   }
   
+  .video-section video {
+    height: auto;
+    padding: 20px 0px;
+    width: 100vw; 
+    max-height: 40vh;
+    object-fit: cover;
+  }
+  
