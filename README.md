@@ -68,7 +68,7 @@ Este sitio fue desarrollado por Facundo Moya, estudiante de **Ingeniería en Sis
 
 El trabajo se basa en una empresa ficticia (Dulzia) inspirada en Arcor, siguiendo su estructura de misión, visión y adaptando los valores bajo el acrónimo propio PODIO.
 
-# Gestión del Código
+## Gestión del Código
 
 El desarrollo del proyecto se realizó utilizando un flujo de trabajo simple con Git, donde:
 
