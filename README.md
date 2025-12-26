@@ -59,7 +59,7 @@ This project was developed as a course project for the **Administración de Recu
 ## Site Access
 This project is published online for free. You can access the site at the following link:
 
-[Project website: Dulzia](https://dulzia.netlify.app/)
+[Project website of Dulzia](https://dulzia.netlify.app/)
 
 The contact form is not functional; it was included for illustrative purposes only.
 
