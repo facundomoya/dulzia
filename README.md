@@ -1,29 +1,29 @@
 # Dulzia
 
-Sitio web desarrollado como parte de una actividad académica para la materia **Administración de Recursos** en la **UTN-FRT**. Este proyecto consiste en la creación de una identidad empresarial ficticia basada en la empresa **Arcor**, adaptando su misión, visión y valores para una marca inventada: **Dulzia**. El objetivo principal fue aplicar los conocimientos de planificación estratégica en un contexto realista.
+Website developed as part of an academic activity for the subject **Administración de Recursos** at **UTN-FRT**. This project consists of creating a fictional corporate identity based on the company **Arcor**, adapting its mission, vision, and values for an invented brand: **Dulzia**. The main objective was to apply strategic planning knowledge in a realistic context.
 
-## Descripción del Proyecto
+## Project Description
 
-**Dulzia** es una empresa imaginaria del rubro alimenticio, enfocada en la producción de golosinas, chocolates y alimentos funcionales. Su imagen y propuesta de valor se inspiran en Arcor, pero con sello propio.
+**Dulzia** is an imaginary company in the food sector, focused on the production of candies, chocolates, and functional foods. Its image and value proposition are inspired by Arcor, but with its own identity.
 
-Este sitio web está diseñado como una **landing page corporativa**, sencilla y adaptable, que muestra:
+This website is designed as a simple and adaptable **corporate landing page** that showcases:
 
-- **Misión y Visión** de la empresa
-- Valores institucionales definidos bajo el acrónimo **PODIO**
-- Productos ficticios
-- Un **formulario de contacto simulado** (sin funcionalidad real)
-- Video como parte del diseño de la página
+- The company's **Mission and Vision**
+- Institutional values defined under the acronym **PODIO**
+- Fictitious products
+- A **simulated contact form** (no real functionality)
+- Video as part of the page design
 
-## Características principales
-### Misión
+## Main Features
+### Mission
 
-Crear alimentos de calidad que acompañen a las personas en cada etapa de su vida, generando experiencias memorables a través de la innovación, el sabor y el compromiso con la sostenibilidad.
+Create quality foods that accompany people at every stage of life, generating memorable experiences through innovation, flavor, and a commitment to sustainability.
 
-### Visión
+### Vision
 
-Ser una empresa líder en la industria alimenticia de América Latina, reconocida globalmente por su excelencia operativa, responsabilidad social y capacidad de innovación continua.
+Be a leading company in the Latin American food industry, globally recognized for its operational excellence, social responsibility, and capacity for continuous innovation.
 
-### Valores PODIO
+### PODIO Values
 
 **P**lanificación  
 **O**rganización  
@@ -31,60 +31,62 @@ Ser una empresa líder en la industria alimenticia de América Latina, reconocid
 **I**ntegración  
 **O-C**ontrol  
 
-Cada uno de estos valores cuenta con una explicación detallada en el sitio, aplicada a áreas como expansión, estructura organizacional, liderazgo, fidelización e innovación.
+Each of these values comes with a detailed explanation on the site, applied to areas such as expansion, organizational structure, leadership, loyalty, and innovation. Briefly, PODIO stands for Planning, Organization, Direction, Integration, and **O-C**ontrol — a guiding framework applied to expansion, organizational structure, leadership, loyalty, and innovation.
 
-## Tecnologías utilizadas
+## Technologies Used
 
 - HTML5 + CSS3
 - Bootstrap 5.3
 
-## Estado del proyecto
+## Project Status
 
-Completado ✔️
+Completed ✔️
 
-Este proyecto fue desarrollado como una tarea académica para la cátedra de Administración de Recursos (UTN-FRT).
+This project was developed as a course project for the **Administración de Recursos** course at UTN-FRT.
 
-## Descripción de archivos
+## File Description
 
-- **index.html**: Página principal del sitio web de Dulzia. Contiene la presentación institucional de la empresa ficticia.
+- **index.html**: Main page of the Dulzia website. Contains the institutional presentation of the fictional company.
 
-- **css/style.css**: Estilos personalizados para la marca Dulzia, incluyendo la paleta de colores, tipografía y diseño general.
+- **css/style.css**: Custom styles for the Dulzia brand, including the color palette, typography, and overall design.
 
-- **public/video.mp4**: Video de fondo en la sección principal que aporta dinamismo y atractivo visual.
+- **public/video.mp4**: Background video in the main section that adds dynamism and visual appeal.
 
-- **public/favicon.png**: Ícono del sitio web que se muestra en la pestaña del navegador.
+- **public/favicon.png**: Website icon displayed in the browser tab.
 
-- **public/chocolate.jpg, gomitas.jpg, barra-cereal.jpg**: Imágenes ilustrativas de los productos ficticios de Dulzia.
+- **public/chocolate.jpg, gomitas.jpg, barra-cereal.jpg**: Illustrative images of Dulzia's fictitious products.
 
-## Acceso al sitio
-Este proyecto está publicado en línea de forma gratuita. Podés acceder al sitio desde el siguiente enlace:
+## Site Access
+This project is published online for free. You can access the site at the following link:
 
-[Página web del proyecto Dulzia](https://dulzia.netlify.app/)
+[Project website: Dulzia](https://dulzia.netlify.app/)
 
-El formulario de contacto no es funcional; fue incluido solo con fines ilustrativos.
+The contact form is not functional; it was included for illustrative purposes only.
 
-## Equipo de desarrollo
-Este sitio fue desarrollado por Facundo Moya, estudiante de **Ingeniería en Sistemas de Información** de la **Universidad Tecnológica Nacional – Facultad Regional Tucumán (UTN-FRT)**, como entrega para la materia **Administración de Recursos**.
+## Development Team
 
-El trabajo se basa en una empresa ficticia (Dulzia) inspirada en Arcor, siguiendo su estructura de misión, visión y adaptando los valores bajo el acrónimo propio PODIO.
+This site was developed by Facundo Moya, a student of **Ingeniería en Sistemas de Información** at the **Universidad Tecnológica Nacional – Facultad Regional Tucumán (UTN-FRT)**, as a course project for **Administración de Recursos**.
 
-## Gestión del Código
+The work is based on a fictitious company (Dulzia) inspired by Arcor, following its mission/vision structure and adapting the values under the custom acronym PODIO.
 
-El desarrollo del proyecto se realizó utilizando un flujo de trabajo simple con Git, donde:
+## Code Management
 
-- **Única rama activa**: `master` (ahora llamada `main` en muchos repositorios)
+The project was developed using a simple Git workflow where:
 
-## Compatibilidad y diseño
+- **Single active branch**: `master` (now called `main` in many repositories)
 
-El sitio es responsive y se adapta a diferentes tamaños de pantalla. Sin embargo, fue optimizado principalmente para dispositivos de escritorio, donde el diseño se visualiza con mayor claridad.
+## Compatibility and Design
 
-## Cómo clonar el repositorio
+The site is responsive and adapts to different screen sizes. However, it was primarily optimized for desktop devices, where the design is displayed more clearly.
 
-Sigue estos pasos para clonar el proyecto en tu máquina local:
+## How to Clone the Repository
 
-1. Abre una terminal o consola de comandos.
+Follow these steps to clone the project on your local machine:
 
-2. Ejecuta el siguiente comando para clonar el repositorio:
+1. Open a terminal or command prompt.
+
+2. Run the following command to clone the repository:
 
 ```bash
 git clone https://github.com/facundomoya/dulzia.git
+```
