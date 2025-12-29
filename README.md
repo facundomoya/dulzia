@@ -65,7 +65,7 @@ The contact form is not functional; it was included for illustrative purposes on
 
 ## Development Team
 
-This site was developed by Facundo Moya, a student of **Ingeniería en Sistemas de Información** at the **Universidad Tecnológica Nacional – Facultad Regional Tucumán (UTN-FRT)**, as a course project for **Administración de Recursos**.
+This site was developed by Facundo Moya, student of **Information Systems Engineering** at the **Universidad Tecnológica Nacional – Facultad Regional Tucumán (UTN-FRT)**, as a project for the subject *"Administración de Recursos"*.
 
 The work is based on a fictitious company (Dulzia) inspired by Arcor, following its mission/vision structure and adapting the values under the custom acronym PODIO.
 
